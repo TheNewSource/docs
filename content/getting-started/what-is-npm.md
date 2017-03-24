@@ -1,4 +1,4 @@
-<!--
+<!--David Thetford 
 title: 01 - What is npm?
 featured: true
 -->
