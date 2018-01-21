@@ -1,5 +1,7 @@
 # [docs.npmjs.com](https://docs.npmjs.com)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TheNewSource/docs.svg)](https://greenkeeper.io/)
+
 learn you some npm for great good
 
 [![Build Status](https://travis-ci.org/npm/docs.svg?branch=master)](https://travis-ci.org/npm/docs)
