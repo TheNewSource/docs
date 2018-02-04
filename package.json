@@ -41,7 +41,7 @@
     "html-frontmatter": "^1.5.1",
     "js-beautify": "^1.6.11",
     "leven": "^2.0.0",
-    "lodash": "^4.11.1",
+    "lodash": "^4.17.5",
     "marky-markdown": "^12.0.0",
     "npm": "latest",
     "strftime": "^0.10.0",
