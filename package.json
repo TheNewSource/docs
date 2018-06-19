@@ -13,7 +13,8 @@
     "prestart": "npm run build",
     "test": "standard public/js/main.js && mocha",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "npm run snyk-protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -36,7 +37,7 @@
     "cors": "^2.7.1",
     "express": "^4.13.3",
     "handlebars-helper-equal": "^1.0.0",
-    "harp": "^0.25.0",
+    "harp": "^0.26.0",
     "hbs": "^4.0.0",
     "html-frontmatter": "^1.5.1",
     "js-beautify": "^1.6.11",
@@ -46,7 +47,7 @@
     "npm": "latest5.7.0",
     "strftime": "^0.10.0",
     "walkdir": "0.0.12",
-    "snyk": "^1.69.1"
+    "snyk": "^1.83.0"
   },
   "devDependencies": {
     "cheerio": "^0.22.0",
