@@ -46,7 +46,7 @@
     "npm": "latest5.7.0",
     "strftime": "^0.10.0",
     "walkdir": "0.0.12",
-    "snyk": "^1.69.1"
+    "snyk": "^1.192.3"
   },
   "devDependencies": {
     "cheerio": "^0.22.0",
